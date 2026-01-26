@@ -55,15 +55,15 @@ Welcome to a sleek and interactive **Tic Tac Toe** experience crafted using **Je
 
 3. Click Run ▶️ on your emulator or device.
 
-
-### 🤖 AI Logic
-
-The current AI randomly picks an available empty cell after the player’s turn. It's intentionally kept simple for beginners and can be extended to implement Minimax or other algorithms later.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the project and submit a pull request.
 
-## Author
+## Get us a Coffee ❤️
 
-Made with ❤️ by Aditya More
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://buymeacoffee.com/aditya1875q)
+
+---
+
+Made with ❤️ by Dev-Aditya-More
+
